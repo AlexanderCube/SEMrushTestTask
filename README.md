@@ -14,7 +14,7 @@
 
 <a name="Introduction"><h1><b>Introduction</b></h1></a>
 
-The process of opening HTML pages at the local environment requires utilization of <b>Python<b> and <b>command line</b> terminal or application, which is available for Windows, Mac OS X and Linux.
+The process of opening HTML pages at the local environment requires utilization of <b>Python</b> and <b>command line</b> terminal or application, which is available for Windows, Mac OS X and Linux.
 
 <b>Note:</b> Installation of Python is required for Windows only. Mac OS X and Linux are provided with available packages. See <a href="#Command line utilization">Command line utilization</a> if the installation of Python is not required for current OS.
 
